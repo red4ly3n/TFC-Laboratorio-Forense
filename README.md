@@ -1,4 +1,4 @@
-# TFC-Laboratorio-Forense
+# TFC Laboratorio Forense
 
 Este proyecto tiene como objetivo crear un laboratorio de análisis forense digital y ciberseguridad,
 orientado a la formación y la investigación. El entorno se basa en un sistema operativo principal

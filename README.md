@@ -18,4 +18,4 @@ Toda la actividad del laboratorio es registrada y visualizada mediante el visor 
 Wazuh, lo que permite mantener un control centralizado y detectar anomalías de forma eficiente.
 Además, se ha automatizado el flujo entre Autopsy y Cuckoo, optimizando el proceso y
 reduciendo la intervención manual. En conjunto, el laboratorio ofrece un entorno seguro y
-controlado para el estudio práctico del análisis forense y el comportamiento del malware
+controlado para el estudio práctico del análisis forense y el comportamiento del malware.
